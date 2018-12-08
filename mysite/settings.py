@@ -25,7 +25,7 @@ SECRET_KEY = '%&is_e$$#6g4@y^0b%%!q8=r31__xf#$7vio5!o+o+sam9*u^w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'tvilify.pythonanywhere.com']
 
 
 # Application definition
